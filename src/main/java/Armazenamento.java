@@ -1,4 +1,4 @@
 
-public class Armazenamento {
+public class Armazenamento extends Hardware{
 
 }
